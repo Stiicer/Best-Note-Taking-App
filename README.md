@@ -2,7 +2,7 @@
 Did you forget something? Write it down on this amazing notes app!
 ## Deployed Link
 
-https://stiicer.github.io/Best-Note-Taking-App
+https://stiicer.github.io/Best-Note-Taking-App/
  
 ## Description
 
